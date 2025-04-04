@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c5cf745-3c02-4fdf-a37b-e54fd1efae70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/learn_langchain.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_system/chat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_system/docs/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_system/docs/在线画稿交易平台的设计与实现3.15.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/conf_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/constants.py" afterDir="false" />
-    </list>
+    <list default="true" id="5c5cf745-3c02-4fdf-a37b-e54fd1efae70" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743741431369</updated>
-      <workItem from="1743741432382" duration="2037000" />
+      <workItem from="1743741432382" duration="2344000" />
     </task>
     <servers />
   </component>
