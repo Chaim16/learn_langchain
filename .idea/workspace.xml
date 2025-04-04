@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c5cf745-3c02-4fdf-a37b-e54fd1efae70" name="Changes" comment="feat: ollama本地模型">
-      <change afterPath="$PROJECT_DIR$/chat_system/robot.py" afterDir="false" />
+    <list default="true" id="5c5cf745-3c02-4fdf-a37b-e54fd1efae70" name="Changes" comment="feat: chat">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat_system/chat_ollama.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat_system/docs/a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/conf/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +207,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743741431369</updated>
       <workItem from="1743741432382" duration="7290000" />
-      <workItem from="1743768210043" duration="3098000" />
+      <workItem from="1743768210043" duration="4340000" />
     </task>
     <task id="LOCAL-00001" summary="feat: ollama本地模型">
       <option name="closed" value="true" />
@@ -221,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743746021869</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: chat">
+      <option name="closed" value="true" />
+      <created>1743773140249</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743773140249</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +233,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: ollama本地模型" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: ollama本地模型" />
+    <MESSAGE value="feat: chat" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: chat" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/learn_langchain$chat_ollama__1_.coverage" NAME="chat_ollama (1) Coverage Results" MODIFIED="1743747940900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chat_system" />
